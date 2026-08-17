@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add PDF Bookmarks"
+  short_description: "Detect a PDF table of contents and add collapsed bookmarks"
+  default_prompt: "Use $add-pdf-bookmarks to scan this book PDF, verify its page mapping, and write collapsed bookmarks."
